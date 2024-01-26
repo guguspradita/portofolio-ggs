@@ -1,12 +1,13 @@
 {
     "version": 2,
     "functions": {
+        "api/assets.php": { "runtime": "vercel-php@0.6.0" },
         "api/index.php": { "runtime": "vercel-php@0.6.0" }
     },
     "routes": [
         {
-            "src": "/assets(.)",
-            "dest": "/public/assets/"
+            "src": "/(css|js|vendor|assets|build|img)/(.*)",
+            "dest": "/api/assets.php?file=public/$1/$2"
         },
         {
             "src": "/(.*)",
