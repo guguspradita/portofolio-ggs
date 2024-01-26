@@ -7,7 +7,7 @@
     "routes": [
         {
             "src": "/public/(css|js|vendor|assets|build|img)/(.*)",
-            "dest": "/api/assets.php?file=public/$1/$2"
+            "dest": "/api/assets.php?file=public/$1/$2/$3/$4"
         },
         {
             "src": "/(.*)",
