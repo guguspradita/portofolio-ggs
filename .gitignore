@@ -20,3 +20,12 @@ yarn-error.log
 .local
 .config
 .sudo_as_admin_successful
+
+
+/package-lock.json
+
+# App
+/dist
+
+# Vercel
+.vercel

@@ -1,8 +1,15 @@
 {
     "version": 2,
     "functions": {
-        "api/assets.php": { "runtime": "vercel-php@0.6.0" },
-        "api/index.php": { "runtime": "vercel-php@0.6.0" }
+        "api/**/*.php": {
+          "runtime": "vercel-php@0.6.0",
+          "excludeFiles": "api/**"
+        }
+    },
+    "build": {
+        "env": {
+          "NOW_PHP_DEBUG": "1"
+        }
     },
     "routes": [
         {
