@@ -59,11 +59,9 @@
                             </div>
                         </div>
                         <p>
-                            Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt
-                            adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-                            Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus
-                            itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis
-                            culpa magni laudantium dolores.
+                            I'm a self-taught developer, full of enthusiasm and dedication, always engaged in a continuous
+                            learning process. With a high level of commitment to the field of development, you explore the
+                            latest technologies and deepen your knowledge.
                         </p>
                     </div>
                 </div>
@@ -218,9 +216,8 @@
                         <h3 class="resume-title">Sumary</h3>
                         <div class="resume-item pb-0">
                             <h4>Gugus Pradita</h4>
-                            <p><em>Innovative and deadline-driven Network Engineer with 3+ years of experience
-                                    Information Technology
-                                    and developing.</em></p>
+                            <p><em>Innovative and efficient information technology solutions with 4+ years of
+                                    experience</em></p>
                             <ul>
                                 <li>Surabaya, Jawa Timur</li>
                                 <li>+62 823 3559 3809</li>
@@ -233,46 +230,47 @@
                             <h4>Informatics Engineering</h4>
                             <h5>2020 - 2024</h5>
                             <p><em>University 17 August 1945 Surabaya, Jawa Timur, ID</em></p>
-                            <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero
-                                voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
+                            <p>Comprehensive understanding of various computer science domains, involving programming,
+                                software design, computer networks, information security, and database management. Trained
+                                to develop innovative and efficient information technology solutions, as well as possessing
+                                the ability to adapt to the latest technological advancements.
+                            </p>
                         </div>
                         <div class="resume-item">
                             <h4>Computer Network Engineering</h4>
                             <h5>2015 - 2018</h5>
                             <p><em>SMK Negeri 1 Surabaya, Jawa Timur, ID</em></p>
-                            <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel
-                                ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae
-                                consequatur neque etlon sader mart dila</p>
+                            <p>A profound understanding in designing, managing, and maintaining computer networks. A
+                                comprehensive educational program covering key aspects in information technology and
+                                computer networking.</p>
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <h3 class="resume-title">Professional Experience</h3>
                         <div class="resume-item">
-                            <h4>Senior graphic design specialist</h4>
-                            <h5>2019 - Present</h5>
-                            <p><em>Experion, New York, NY </em></p>
+                            <h4>Staff IT</h4>
+                            <h5>2023 - Present</h5>
+                            <p><em>Jl. Tj Sari, Surabaya, Jawa Timur </em></p>
                             <ul>
-                                <li>Lead in the design, development, and implementation of the graphic, layout, and
-                                    production communication materials</li>
-                                <li>Delegate tasks to the 7 members of the design team and provide counsel on all
-                                    aspects of the project. </li>
-                                <li>Supervise the assessment of all graphic materials in order to ensure quality and
-                                    accuracy of the design</li>
-                                <li>Oversee the efficient use of production project budgets ranging from $2,000 -
-                                    $25,000</li>
+                                <li>Installing software according to application standards applicable in the company</li>
+                                <li>Troubleshooting hardware, software, computer networks</li>
+                                <li>Monitoring and ensure all computers are connected to the network</li>
+                                <li>Back up all data to ensure it is safe and if the system experiences problems, restore
+                                    data from the existing system backup</li>
                             </ul>
                         </div>
                         <div class="resume-item">
-                            <h4>Graphic design specialist</h4>
-                            <h5>2017 - 2018</h5>
-                            <p><em>Stepping Stone Advertising, New York, NY</em></p>
+                            <h4>IT Support And Marketing</h4>
+                            <h5>2019 - 2023</h5>
+                            <p><em>Plaza Marina, Surabaya, Jawa Timur</em></p>
                             <ul>
-                                <li>Developed numerous marketing programs (logos, brochures,infographics, presentations,
-                                    and advertisements).</li>
-                                <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                                <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                                <li>Created 4+ design presentations and proposals a month for clients and account
-                                    managers</li>
+                                <li>Problem solving PC and Laptop</li>
+                                <li>Perform software installation and assemble PCs as requested</li>
+                                <li>Maintenance and repair of shop assets (pc, laptop, printer, etc.)</li>
+                                <li>Check and ensure all computers are connected to the network</li>
+                                <li>Managing online stores includes, Product management,
+                                    Stock management, Customer service, Order
+                                    management, Analysis and reporting</li>
                             </ul>
                         </div>
                     </div>
@@ -603,7 +601,7 @@
                             <div class="email">
                                 <i class="bi bi-envelope"></i>
                                 <h4>Email:</h4>
-                                <p>info@example.com</p>
+                                <p>guguspradita19@gmail.com</p>
                             </div>
 
                             <div class="phone">
