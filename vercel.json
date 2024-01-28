@@ -1,10 +1,9 @@
 {
     "version": 2,
+      "framework": null,
     "functions": {
-        "api/**/*.php": {
-          "runtime": "vercel-php@0.6.0",
-          "excludeFiles": "api/**"
-        }
+        "api/index.php": { "runtime": "vercel-php@0.6.0" },
+        "api/assets.php": { "runtime": "vercel-php@0.6.0" }
     },
     "build": {
         "env": {
