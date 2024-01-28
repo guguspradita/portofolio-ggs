@@ -6,10 +6,10 @@
             <h1>Gugus Pradita</h1>
             <p>I'm <span class="typed" data-typed-items="Developer, Network Engineer"></span></p>
             <div class="social-links">
-                <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+                <a href="https://github.com/guguspradita" class="github"><i class="bx bxl-github"></i></a>
+                <a href="https://www.facebook.com/gugus.pradita" class="facebook"><i class="bx bxl-facebook"></i></a>
+                <a href="https://www.instagram.com/guguspradita" class="instagram"><i class="bx bxl-instagram"></i></a>
+                <a href="https://linkedin.com/in/guguspradita" class="linkedin"><i class="bx bxl-linkedin"></i></a>
             </div>
         </div>
     </section><!-- End Hero -->
@@ -139,7 +139,6 @@
                 <div class="row skills-content">
 
                     <div class="col-lg-6">
-
                         <div class="progress">
                             <span class="skill">HTML <i class="val">100%</i></span>
                             <div class="progress-bar-wrap">
